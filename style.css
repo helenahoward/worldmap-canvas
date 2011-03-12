@@ -1,0 +1,5 @@
+#codeWorldmapControl { background: #e2e2e2; font-family: arial, helvetica, sans-serif; font-size: 11px; line-height: 21px; margin: 0 0 10px 0; padding: 5px 0; }
+#codeWorldmapControl input[type=text] { margin-right: 0; }
+#codeWorldmapControlLeft { float: left; line-height: 30px; margin: 0; text-align: right; width: 208px; }
+#codeWorldmapControlMiddle { float: left; margin: 0 0 0 29px; width: 250px; }
+#codeWorldmapControlRight { float: right; margin: 0; width: 235px; }
